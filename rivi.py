@@ -1,3 +1,4 @@
+#1st day 
 print("hello","world",sep="--",end="\n")
 i=1
 while i<10:
@@ -33,3 +34,4 @@ print("hay {} {}".format(c,v))
 
       
         
+
