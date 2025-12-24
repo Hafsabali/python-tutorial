@@ -41,5 +41,8 @@ fun(fname="john",lname="babbage")
 x=lambda a,b:a+b
 num1=x(2,2)
 print(num1)
+v=lambda w,q:w*q
+num2=v(2,3)
+print(num2)
 
 
